@@ -1,0 +1,237 @@
+.main{
+
+}
+.header{
+    width: 100%;
+    height: 41px;
+    background-color: red; 
+    font-size: 17px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+.header1{
+    width: 100%;
+    height: 128px;
+    background-color:rgb(75, 74, 74)
+    
+}
+.sevendayslogo{
+    position:absolute;
+    /* display: flex; */
+    width: 197px;
+    height: 184px;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-image: url(./7DaysImages/white_tagline_200x.avif);
+    /* background-color:rgb(75, 74, 74) */
+}
+.caketypes{
+    margin-left: 250px;
+    width: 500px;
+    height: 30px; 
+    font-family: 'Arial', sans-serif;
+    text-align: left;
+    word-spacing: 20px;
+    position: absolute;
+    margin-top: 60px;
+    color: aliceblue;
+    font-weight: 30px;   
+}
+.contact{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 900px;
+    text-align: right;
+    color: aliceblue;
+    word-spacing: 20px;
+    font-family: 'Arial', sans-serif;
+}
+.icon{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 1100px;
+    color: aliceblue;
+    word-spacing: 20px;
+
+}
+.cakebars {
+    position: relative;
+    top: 10px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(5, 10, 10);
+    word-spacing: 20px;
+
+}
+.centercontent{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: -24.177px;
+    width: 90%;
+    height: 400px;
+    /* background-color: blueviolet; */
+    background-image: url(./7DaysImages/cake_bar_shopify_banner_6_1024x1024.webp);
+    background-size: cover;
+}
+.textcentercontent {
+    position: relative;
+    top: 250px;
+    left: 20px;
+    color: rgb(5, 6, 6);
+   font-family: 'Playfair Display', serif;
+   font-size: 21px;
+    line-height: 27px;
+    font-style: bold;
+
+
+}
+.cakemodels{
+    width: 100%;
+    height: 600px;
+
+}
+.cake1{
+    position: relative;
+    float: left;
+    top: 400px;
+    width: 30%;
+    height: 288px;
+    background-image: url(./7DaysImages/cake1.webp);
+    background-size: cover;
+}
+.cake2{
+    position: relative;
+    left: 10px;
+    float: left;
+    top: 400px;
+    width: 33%;
+    height: 288px;
+    background-image: url(./7DaysImages/cake2.webp);
+    background-size: cover;
+
+}
+.cake3{
+    position: relative;
+    float: left;
+    top: 400px;
+    width: 30%;
+    height: 288px;
+    background-image: url(./7DaysImages/cake3.webp);
+    background-size: cover;
+}
+.cakename1{
+    float: left;
+    width: 29%;
+    height: 30px;
+    /* background-color: blue; */
+    position: relative;
+    top: 400px;
+    left: 18px;
+    font-size: 1rem;
+    text-align: justify;
+}
+.cakename2 a{
+    float: left;
+    width: 20%;
+    height: 30px;
+    /* background-color: blue; */
+    position: relative;
+    top: 400px;
+    left: 130px;
+    font-size: 1rem;
+    text-align: justify;
+
+}
+.footer{
+    position: relative;
+    top: 200px;
+    width: 100%;
+    height: 247px;
+    background-color:rgb(75, 74, 74);
+}
+.footer1{
+    position: relative;
+    top: 200px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(249, 243, 243);
+
+}
+.ftcol1{
+    position:relative;
+    top: 20px;
+    /* display: flex; */
+    width: 117px;
+    height: 126px;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-image: url(./7DaysImages/logo22.avif);
+    background-size: 120px;
+
+}
+.ftcol2{
+    position: absolute;
+    top: 0;
+    left: 250px;
+    line-height: 25px;
+    color: aliceblue;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+
+}
+.ftcol3{
+    position: absolute;
+    top: 0;
+    left: 500px;
+    line-height: 25px;
+    color: aliceblue;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+
+}
+.ftcol4{
+    position: absolute;
+    top: 0;
+    left: 800px;
+    line-height: 25px;
+    color: aliceblue;
+    font-family: 'Arial', sans-serif;
+     font-size: 16px;
+
+}
+.ftcol5{
+    position: absolute;
+    top: 0;
+    left: 1050px;
+    line-height: 25px;
+    color: aliceblue;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+
+}
+.ft1text{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    padding: 20px;
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+
+}
+.iconcards{
+    position: relative;
+    top: 150px;
+    left: 1000px;
+   
+}
+.iconmedia{
+
+position:relative;
+    top: 40px;
+    /* display: flex; */
+    width: 117px;
+    height: 126px;
+    margin-left: 60px;
+}
+
