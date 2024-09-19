@@ -28,7 +28,7 @@
 }
 .caketypes{
     margin-left: 250px;
-    width: 500px;
+    width: 600px;
     height: 30px; 
     font-family: 'Arial', sans-serif;
     text-align: left;
@@ -58,11 +58,19 @@
 .cakebars {
     position: relative;
     top: 10px;
-    font-size: 50px;
+    font-size: 48px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(5, 10, 10);
     word-spacing: 20px;
 
+}
+.line{
+    width: 100px;
+    height: 2px;
+    position: absolute;
+    left: 20px;
+    top: 300px;
+    background-color: rgb(19, 19, 20);
 }
 .centercontent{
     position: absolute;
@@ -82,6 +90,7 @@
    font-family: 'Playfair Display', serif;
    font-size: 21px;
     line-height: 27px;
+    font-weight: 100px;
     font-style: bold;
 
 
